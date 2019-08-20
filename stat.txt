@@ -4,3 +4,4 @@ line
 as branch
 anotehr new line
 edit line as master
+edit as branch
